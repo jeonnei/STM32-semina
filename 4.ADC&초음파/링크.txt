@@ -1,0 +1,28 @@
+https://blog.naver.com/PostView.nhn?blogId=fribot&logNo=220454988902
+(초음파센서 추적소스)
+https://eteo.tistory.com/155
+(stm32 초음파센서 제어 개준생)
+
+
+https://eteo.tistory.com/194
+
+com잡는법(개준생)
+
+https://www.youtube.com/watch?v=YZjnCOun1wU
+STM32C8T6 USB device
+
+
+https://wikidocs.net/168981
+ADC DMA
+
+https://dkeemin.com/2048-2/
+adc 함수사용법
+
+https://blog.naver.com/eziya76/221472568302
+adc 다중채널 실험한사람 블로그
+
+https://www.youtube.com/watch?v=zipjCtiHYr8
+adc dma
+
+https://blog.naver.com/eziya76/221472568302
+adc interrupt
